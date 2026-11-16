@@ -1,0 +1,8 @@
+{
+  "name": "otr-manager-kakao-skill",
+  "version": "1.0.0",
+  "private": true,
+  "description": "OTR MANAGER Kakao i Open Builder skill server",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=18"}
+}
